@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Currently working as software Engineering analyst in Accenture 
+I'm intersted in Data associated works
+currently practising data analystics
 
 <!--
 **hariprasath531/hariprasath531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
